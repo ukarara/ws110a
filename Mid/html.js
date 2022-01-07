@@ -1,5 +1,5 @@
 import { Application, Router, send } from "https://deno.land/x/oak/mod.ts";
-import { table99 } from "../table99.js";
+import { table99 } from "../table99htmlb.js";
 
 const router = new Router();
 router
@@ -11,7 +11,7 @@ router
                 </head>
                 <body>
                     <h1>九九乘法表</h1>
-                    ${table()}
+                    ${table99()}
                 </body>
             </html>`;
     })
