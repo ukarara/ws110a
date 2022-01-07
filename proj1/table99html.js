@@ -18,17 +18,18 @@ console.log(`
 table {
   width: 500px;
   border-collapse:collapse;
-  border:1px solid black;
+  border:1px solid white;
+  background-color:25c481;
   padding: 10px;
 }
 th {
-  text-align:left;
-  background-color:black;
+  text-align:center;
+  background-color:#25b7c4;
   color:white;
   padding: 10px;
 }
 td {
-  border:1px solid black;
+  border:1px solid white;
   padding: 10px;
 }
 </style>

@@ -1,4 +1,4 @@
-function table99(){
+export function table99(){
     let table = []
     for (let i=1; i<=9; i++){
         let row = [i]

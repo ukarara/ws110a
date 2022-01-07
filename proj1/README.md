@@ -15,5 +15,6 @@
 ![](table99b.jpg)
 
 ## Q2: table99html.js
+[CSS](https://codepen.io/alexerlandsson/pen/mPWgpO?editors=1100)
 ![](table99html.jpg)
 ![](table99htmlb.jpg)
