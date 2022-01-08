@@ -29,7 +29,6 @@
 1217|[W14](https://github.com/ukarara/ws110a/blob/master/Note/W14.md)|
 1224|[W15](https://github.com/ukarara/ws110a/blob/master/Note/W15.md)|
 0114|[W17](https://github.com/ukarara/ws110a/blob/master/Note/W17.md)|
-12/29|
 
 
 ## 更新上課資料
