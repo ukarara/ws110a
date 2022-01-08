@@ -37,3 +37,13 @@
 ```
 $ git pull origin master --rebase
 ```
+
+## 使用語言
+* [JavaScript](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript)
+* [Deno Modules](https://deno.land/x/tdd@v0.6)
+
+### 其他寫網站的語言
+* [Python Flask](https://www.w3cschool.cn/flask/)
+* [Python Django](https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django)
+* [Ruby On Rails](https://rubyonrails.org/)
+* [Golang](https://go.dev/):語法複雜 但是網頁執行效率快
